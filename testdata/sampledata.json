@@ -1,0 +1,23 @@
+{
+"domain"	:	"chennai",
+"core"		:	{
+							"name"     : "parfait 3",
+							"address"  : "taramani link road",
+							"latitude" : "4",
+							"longitude": "101",
+							"accuracy" : "50",
+							"mobile"	 : "91443322221",
+							"landline" : "044-27755422",
+							"others"	 :	["044-22254322","+91-999987676"],
+							"company"	 : "Parfait 3 bakery",
+							"category" : "Restaurant",
+							"city"		 : "chennai",
+							"pincode"  : "600042",
+							"created_user" : "bala",
+							"created_time" : "05-11-2013T14-00-00",
+							"last_updated_user" :  "bala",
+							"last_updated_time" :  "05-11-2013T14-00-00",
+							"status"						:	 "VERIFIED"
+						}
+
+}

@@ -1,0 +1,1 @@
+curl http://citibytes.columbusagain.com/saveSMSCoreAttributes.php --data-urlencode json@testdata/core_attributes_data.json --data-urlencode "email_id=murugaprabum@gmail.com" --data-urlencode "sms_number=9585518355"
